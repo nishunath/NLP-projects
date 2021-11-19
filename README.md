@@ -1,2 +1,2 @@
 # Natural Language Processing with Disaster Tweets.ipynb
-with 80% accuracy
+with 80% accuracy usin SVC
